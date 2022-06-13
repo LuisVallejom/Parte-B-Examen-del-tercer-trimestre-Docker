@@ -64,8 +64,10 @@
 ![Captura de pantalla final](https://user-images.githubusercontent.com/82807688/173315662-b84b68d1-a207-4509-b100-1fac7f3dfa08.png)
 
 
+Captura de pantalla del tomcat en Docker Hub
 
 
+![Captura de pantalla tomcat](https://user-images.githubusercontent.com/82807688/173316748-7bbe4ff9-0016-4031-bbb8-8b0bd0e8af6b.png)
 
 
 
